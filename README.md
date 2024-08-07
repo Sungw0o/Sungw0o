@@ -35,6 +35,9 @@
         <img alt="Ubuntu" width="30px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
         &nbsp;
         <img alt="ArgoCD" width="30px" src="https://github.com/CChuYong/CChuYong/assets/67673493/36e7ac41-cdd7-4f06-be7b-36073ceed43f" />
+        &nbsp;
+        <img alt="github action" width="30px" src="https://github.com/user-attachments/assets/df5edf67-f44f-4aa2-bd4b-22c605f1b965" />
+        &nbsp;
         <br/>
       </div>
     </td>
