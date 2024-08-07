@@ -57,6 +57,24 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td align="center">Use Tools</td>
+<td>
+  <div>
+    <img alt="Intellij" width="30px" src="https://github.com/user-attachments/assets/5a29a3fa-42be-4283-92dd-17fd25b0c6c4" />
+    &nbsp;
+    <img alt="vscode" width="30px" src="https://github.com/user-attachments/assets/eb44b0f2-8808-4405-a1ad-bee52d836613" />
+    &nbsp;
+    <img alt="notion" width="30px" src="https://github.com/user-attachments/assets/d18d7b0d-3ede-49fd-81a3-3fd4b0263df0" />
+    &nbsp;
+    <img alt="postman" width="30px" src="https://github.com/user-attachments/assets/cd77ba6c-6684-4cca-9a9a-8983dd196724" />
+    &nbsp;
+    <img alt="discord" width="30px" src="https://github.com/user-attachments/assets/080d6c8b-301c-4f29-bf56-0d87279b0cb3" />
+    &nbsp;
+  </div>
+</td>
+
+  </tr>
 </table>
 
 
