@@ -3,8 +3,6 @@
 Java와 Spring 기반의 백엔드 개발자를 지향하는 장성우입니다.
 
 새로운 기술이나 익숙하지 않은 구조도 공식 문서와 예제를 바탕으로 직접 검증하며 해결하는 것을 좋아합니다.
-MSA 기반 온라인 서점과 AI 기반 고전문학 콘텐츠 서비스를 개발하며 REST API, DB 설계, 인증/인가, 비동기 처리, 메시지 큐, CI/CD, Docker 기반 배포를 경험했습니다.
-
 기능 구현에 그치지 않고, 협업 가능한 구조와 안정적인 운영 흐름을 함께 고민하는 백엔드 개발자로 성장하고자 합니다.
 
 ---
@@ -75,13 +73,13 @@ AI 기반 고전문학 그림책 감상 및 퀴즈 학습 서비스입니다.
     <td align="center"><strong>Backend</strong></td>
     <td>
       <div>
-        <img alt="Java" width="35px" src="./assets/java.png" />
+        <img alt="Java" width="40px" height="40px" src="./assets/java.png" />
         &nbsp;
-        <img alt="Spring Boot" width="35px" src="./assets/springboot.png" />
+        <img alt="Spring Boot" width="40px" height="40px" src="./assets/springboot.png" />
         &nbsp;
-        <img alt="MySQL" width="35px" src="./assets/MySQL.png" />
+        <img alt="MySQL" width="40px" height="40px" src="./assets/MySQL.png" />
         &nbsp;
-        <img alt="Redis" width="55px" src="./assets/Redis.png" />
+        <img alt="Redis" width="40px" height="40px" src="./assets/Redis.png" />
         <br/>
       </div>
     </td>
@@ -91,15 +89,15 @@ AI 기반 고전문학 그림책 감상 및 퀴즈 학습 서비스입니다.
     <td align="center"><strong>Infra</strong></td>
     <td>
       <div>
-        <img alt="AWS EC2" width="35px" src="./assets/aws-ec2.svg" />
+        <img alt="AWS EC2" width="40px" height="40px" src="./assets/aws-ec2.svg" />
         &nbsp;
-        <img alt="AWS S3" width="35px" src="./assets/amazon_s_icon_130997.png" />
+        <img alt="AWS S3" width="40px" height="40px" src="./assets/s3.svg" />
         &nbsp;
-        <img alt="AWS RDS" width="35px" src="./assets/aws-rds.svg" />
+        <img alt="AWS RDS" width="40px" height="40px" src="./assets/aws-rds.svg" />
         &nbsp;
-        <img alt="Docker" width="35px" src="./assets/docker.png" />
+        <img alt="Docker" width="40px" height="40px" src="./assets/docker.png" />
         &nbsp;
-        <img alt="GitHub Actions" width="35px" src="./assets/GitHub%20Actions.png" />
+        <img alt="GitHub Actions" width="40px" height="40px" src="./assets/GitHub%20Actions.png" />
         <br/>
       </div>
     </td>
