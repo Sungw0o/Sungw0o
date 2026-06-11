@@ -9,6 +9,7 @@ MSA 기반 온라인 서점과 AI 기반 고전문학 콘텐츠 서비스를 개
 
 ---
 
+
 ## 📋 Activities
 
 * **멋쟁이사자처럼 대학**
@@ -27,15 +28,15 @@ MSA 기반 온라인 서점과 AI 기반 고전문학 콘텐츠 서비스를 개
 
 ## 🏅 Certificates
 
-* `(2025.12.)` 정보처리기사 - 한국산업인력공단 - Pass
-* `(2024.11.)` SQLD - 한국데이터산업진흥원 - Pass
-* `(2026.06.)` AWS Certified Solutions Architect - Associate, SAA-C03 - Amazon Web Services - Pass
-* `(2026.06.)` ADsP - 한국데이터산업진흥원 - Pass
+* `(2025.12.)` **정보처리기사** - 한국산업인력공단 - Pass
+* `(2024.11.)` **SQLD** - 한국데이터산업진흥원 - Pass
+* `(2026.06.)` **AWS Certified Solutions Architect - Associate, SAA-C03** - Amazon Web Services - Pass
+* `(2026.06.)` **ADsP** - 한국데이터산업진흥원 - Pass
 ---
 
 ## 🚀 Projects
 
-### HighFiveBooks
+### [HighFiveBooks](https://github.com/nhnacademy-be12-high-five?view_as=public)
 
 `2025.11. ~ 2026.01.`
 
@@ -47,11 +48,9 @@ MSA 기반 온라인 서점 서비스입니다.
 * Spring Scheduler 기반 주문 상태 자동화
 * Docker, GitHub Actions 기반 CI/CD 및 배포 자동화
 
-
-
 ---
 
-### BookTown
+### [BookTown](https://github.com/BookTown/BookTown)
 
 `2025.03. ~ 2025.06.`
 
@@ -69,28 +68,45 @@ AI 기반 고전문학 그림책 감상 및 퀴즈 학습 서비스입니다.
 
 ## 🛠 Tech Stack
 
-### Backend
+<div align="center">
 
-`Java` `Spring Boot` 
+<table>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <div>
+        <img alt="Java" width="35px" src="./assets/java.png" />
+        &nbsp;
+        <img alt="Spring Boot" width="35px" src="./assets/springboot.png" />
+        &nbsp;
+        <img alt="MySQL" width="35px" src="./assets/mysqlworkbench_93532.png" />
+        &nbsp;
+        <img alt="Redis" width="55px" src="./assets/redis.png" />
+        <br/>
+      </div>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center"><strong>Infrastructure</strong></td>
+    <td>
+      <div>
+        <img alt="AWS EC2" width="35px" src="./assets/aws-ec2.svg" />
+        &nbsp;
+        <img alt="AWS S3" width="35px" src="./assets/storage-amazon-s3-bucket.svg" />
+        &nbsp;
+        <img alt="AWS RDS" width="35px" src="./assets/aws-rds.svg" />
+        &nbsp;
+        <img alt="Docker" width="35px" src="./assets/docker.png" />
+        &nbsp;
+        <img alt="GitHub Actions" width="35px" src="./assets/GitHub%20Actions.png" />
+        <br/>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### Database
-
-`MySQL` `Redis`
-
-
-### Infra / DevOps
-
-`AWS EC2` `AWS S3` `AWS RDS`
-`Docker`
-`GitHub Actions` 
-
----
-
-## 📫 Contact
-
-* Email: [sungwoo515@gmail.com](mailto:sungwoo515@gmail.com)
-* GitHub: https://github.com/Sungw0o
+</div>
 
 ---
 
