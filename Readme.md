@@ -79,21 +79,21 @@ AI 기반 고전문학 그림책 감상 및 퀴즈 학습 서비스입니다.
         &nbsp;
         <img alt="Spring Boot" width="35px" src="./assets/springboot.png" />
         &nbsp;
-        <img alt="MySQL" width="35px" src="./assets/mysqlworkbench_93532.png" />
+        <img alt="MySQL" width="35px" src="./assets/MySQL.png" />
         &nbsp;
-        <img alt="Redis" width="55px" src="./assets/redis.png" />
+        <img alt="Redis" width="55px" src="./assets/Redis.png" />
         <br/>
       </div>
     </td>
   </tr>
 
   <tr>
-    <td align="center"><strong>Infrastructure</strong></td>
+    <td align="center"><strong>Infra</strong></td>
     <td>
       <div>
         <img alt="AWS EC2" width="35px" src="./assets/aws-ec2.svg" />
         &nbsp;
-        <img alt="AWS S3" width="35px" src="./assets/storage-amazon-s3-bucket.svg" />
+        <img alt="AWS S3" width="35px" src="./assets/amazon_s_icon_130997.png" />
         &nbsp;
         <img alt="AWS RDS" width="35px" src="./assets/aws-rds.svg" />
         &nbsp;
